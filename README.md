@@ -1,5 +1,6 @@
 <h3 align="center">
-    <img src="img/logo.png" alt="Midnight Hacker News logo" width="50%" height="50%">
+    <img src="img/logo-nobg.png" alt="Midnight Hacker News logo" width="50%" height="50%">
+    <br>
     <br>
     A dark theme for night time readers of Hacker News
 </h3>
@@ -13,9 +14,6 @@
     <a href="img/preview-2.png">
         <img src="img/preview-2.png" alt="Comments page preview" width="35%" height="35%" style="display:inline;" />
     </a>
-    <br>
-    <br>
-    <i>Preview</i>
 </h4>
 
 
