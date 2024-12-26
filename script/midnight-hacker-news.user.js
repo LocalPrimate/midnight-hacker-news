@@ -7,6 +7,7 @@
 // @version     1.2
 // @author      Local Primate
 // @description Created: 2024-10-25 | Last Updated: 2024-12-26
+// @license     CC0 1.0 Universal
 // ==/UserScript==
 
 // Main styles
