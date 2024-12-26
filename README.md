@@ -1,17 +1,25 @@
-<center>
-    <img src="img/logo.png" alt="Midnight Hacker News logo" width="50%" height="50%" />
-    <h3><i>Dark theme for night time readers</i></h3>
+<h3 align="center">
+    <img src="img/logo.png" alt="Midnight Hacker News logo" width="50%" height="50%">
+    <br>
+    A dark theme for night time readers of Hacker News
+</h3>
+
+<hr>
+
+<h4 align="center">
     <a href="img/preview-1.png">
         <img src="img/preview-1.png" alt="Front page preview" width="35%" height="35%" style="display:inline ;" />
     </a>
     <a href="img/preview-2.png">
         <img src="img/preview-2.png" alt="Comments page preview" width="35%" height="35%" style="display:inline;" />
     </a>
-</center>
+    <br>
+    <br>
+    <i>Preview</i>
+</h4>
 
-<hr>
 
-### :art: Palette 
+### :art: Palette
 
 |  | Color | Hex | RGB | HSL |
 |---|------|-----|-----|-----|
@@ -26,10 +34,11 @@
 | ![palette-gray-600](img/palette/gray-600.png) | Gray 600 | `#1c1e21` | `rgb(28, 30, 33)` | `hsl(216, 8%, 12%)` |
 | ![palette-black](img/palette/black.png) | Black | `#0f1014` | `rgb(15, 15, 20)` | `hsl(228, 14%, 7%)` |
 
+<hr>
 
 ### :electric_plug: Installation
 
-#### :memo: Pre-requisites 
+#### Pre-requisites 
 
 This theme is implemented as a userscript and will require a userscript managing browser extension to run.
 
@@ -44,4 +53,3 @@ _Note: I wrote and tested this script using ViolentMonkey_
 Click one of the links below and your userscript manager will prompt you to install the script.
 - [GitHub](https://raw.githubusercontent.com/LocalPrimate/midnight-hacker-news/refs/heads/main/script/midnight-hacker-news.user.js)
 - [GreasyFork](https://update.greasyfork.org/scripts/521898/Midnight%20Hacker%20News.user.js)
-
