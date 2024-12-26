@@ -1,6 +1,6 @@
 <center>
     <img src="img/logo.png" alt="Midnight Hacker News logo" width="50%" height="50%" />
-    <h2><i>Dark theme for night time readers</i></h2>
+    <h3><i>Dark theme for night time readers</i></h3>
     <a href="img/preview-1.png">
         <img src="img/preview-1.png" alt="Front page preview" width="35%" height="35%" style="display:inline ;" />
     </a>
@@ -11,7 +11,7 @@
 
 <hr>
 
-## :art: Palette 
+### :art: Palette 
 
 |  | Color | Hex | RGB | HSL |
 |---|------|-----|-----|-----|
@@ -27,20 +27,21 @@
 | ![palette-black](img/palette/black.png) | Black | `#0f1014` | `rgb(15, 15, 20)` | `hsl(228, 14%, 7%)` |
 
 
+### :electric_plug: Installation
 
-
-## :electric_plug: Installation
-
-### :memo: Pre-requisites 
+#### :memo: Pre-requisites 
 
 This theme is implemented as a userscript and will require a userscript managing browser extension to run.
 
-#### Userscript Managers
-- [ViolentMonkey](https://violentmonkey.github.io/) (recommended)
+##### Userscript Managers
+- [ViolentMonkey](https://violentmonkey.github.io/)
 - [TamperMonkey](https://www.tampermonkey.net/)
 
-### Installing the userscript
+_Note: I wrote and tested this script using ViolentMonkey_
+
+#### Installing the userscript
 
 Click one of the links below and your userscript manager will prompt you to install the script.
-- link 1
-- link 2
+- [GitHub](https://raw.githubusercontent.com/LocalPrimate/midnight-hacker-news/refs/heads/main/script/midnight-hacker-news.user.js)
+- [GreasyFork](https://update.greasyfork.org/scripts/521898/Midnight%20Hacker%20News.user.js)
+
